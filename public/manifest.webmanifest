@@ -1,0 +1,10 @@
+{
+  "name": "G-Sync Automated Trading",
+  "short_name": "G-Sync",
+  "description": "A mobile dashboard for automated trading strategies.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f5f7f3",
+  "theme_color": "#111b16",
+  "icons": [{ "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }]
+}
